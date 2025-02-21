@@ -17,8 +17,11 @@ San Diego | Tijuana | NH
 
 ---
 National University (Higher Education)
+
 Role: University System Web Manager | SR Digital Strategist
+
 San Diego, CA
+
 8/2013 – 3/2018
 
 - Oversaw and Project Managed massive enterprise-wide website redesign project(s) for all NU System and Affiliate web properties including: National University (NU), National University System (NUS), City University of Seattle (CityU), John F. Kennedy University (JFKU), National University Virtual High School (NUVHS), National University Academy (NUA), and Sanford Programs.
@@ -28,8 +31,11 @@ San Diego, CA
 
 ---
 Anderson Direct Marketing (Agency - Digital & Direct)
+
 Role: SR Interactive Project Manager
+
 San Diego, CA
+
 6/2012 – 3/2013
 
 - Responsible for overseeing various client project lifecycles from initiation through to completion. Work focused on Email campaigns, Landing Pages, Lead Generation, Order Fulfillment, and CRM integration.
@@ -41,8 +47,11 @@ San Diego, CA
 
 ---
 Strukture Media Solutions (Digital Agency)
+
 Role: Founder | Sole Proprietor
+
 Auburn, CA / San Diego, CA
+
 12/2005 – 8/2013
 
 - Planned, documented, and implemented front-end architectures
@@ -55,8 +64,11 @@ Auburn, CA / San Diego, CA
 
 ---
 Crawford & Associates, Inc. (Elearning Consulting Agency)
+
 Role: Director of Media Solutions
+
 Palo Alto, CA / Auburn, CA
+
 07/2000 – 10/2005
 
 - Played a key role as a member of the Executive Leadership Team in corporate strategic planning and decision making including direction
