@@ -73,11 +73,17 @@ Palo Alto, CA / Auburn, CA
 
 07/2000 – 10/2005
 
-- Played a key role as a member of the Executive Leadership Team in corporate strategic planning and decision making including direction
+Responsible for orchestrating an internal team of  4 web developers, 3 web designers, 2 graphic designers and numerous sub-contractors (5+) to develop global E-learning (Web Based Training) solutions for Fortune 1000 companies. Notable clients included Cisco, HP, Oracle, Logitech, and Network Appliance.
+
+- Spearheaded the development of a self-building web based training template utilizing HTML and JavaScript that meets AICC & ASTD standards and compliance. The template cuts development time by one to two thirds
+- Conducted needs analysis’ that included audience analysis, technical requirements/limitations, and cost justification
+- Provided artistic direction, UI design, prototyping, project management, and status reporting
+- Assisted in the development of an estimating tool that calculates the true cost of developing web based training
+- Maintained exceptional record of completing projects on time and within budget
 
 ---
 
-Though I lack a formal education, I've achieved most of my success through self-education, persistance, and practical experience.
+Though I may lack a formal education, I've achieved most of my success through self-education, persistance, and practical experience.
 
 ---
 

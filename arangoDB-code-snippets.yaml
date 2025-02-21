@@ -1,5 +1,6 @@
 # ArangoDB and PREGEL graph algorithms:
 
+
 ### ArangoDB Link Queries
 
 1. **All Links**: Retrieve any links to/from a specified entity.
