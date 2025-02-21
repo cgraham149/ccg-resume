@@ -1,6 +1,6 @@
 # Craig Graham
 
----
+
 G-Strategy (Consulting, Marketing, Project Management)
 
 Role: Senior Digital Strategist (ad-hoc)
@@ -15,6 +15,7 @@ San Diego | Tijuana | NH
 - Worked collaboratively with cross-functional teams, including designers, developers, content writers, and third-party vendors, to deliver high-quality web and mobile solutions that exceeded client expectations.
 - Utilized project management methodologies and tools to streamline project workflows, identify and mitigate risks, and maintain effective communication with clients and project teams throughout the project lifecycle.
 
+---
 National University (Higher Education)
 Role: University System Web Manager | SR Digital Strategist
 San Diego, CA
@@ -25,6 +26,7 @@ San Diego, CA
 - Spearheaded product analysis and decision making process for new CMS. Assisted with vendor negotiations and final contract agreement.
 - Project Managed complete redesign of the National University suite of web & mobile properties including template design, content migration, user testing, training, deployment, and campus-wide communication. 
 
+---
 Anderson Direct Marketing (Agency - Digital & Direct)
 Role: SR Interactive Project Manager
 San Diego, CA
@@ -37,6 +39,7 @@ San Diego, CA
 - Worked with and coordinated the work of other team members to ensure team success and efficient use of resources
 - Planned, documented, and implemented front-end architectures
 
+---
 Strukture Media Solutions (Digital Agency)
 Role: Founder | Sole Proprietor
 Auburn, CA / San Diego, CA
@@ -50,6 +53,7 @@ Auburn, CA / San Diego, CA
 - Supervised the work of outside vendors and contractors
 - Daring entrepreneurial spirit
 
+---
 Crawford & Associates, Inc. (Elearning Consulting Agency)
 Role: Director of Media Solutions
 Palo Alto, CA / Auburn, CA
@@ -58,6 +62,9 @@ Palo Alto, CA / Auburn, CA
 - Played a key role as a member of the Executive Leadership Team in corporate strategic planning and decision making including direction
 
 ---
+
 Though I lack a formal education, I've achieved most of my success through self-education, persistance, and practical experience.
+
 ---
+
 © Craig Graham - 2025. All rights reserved.
