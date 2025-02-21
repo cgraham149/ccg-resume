@@ -1,5 +1,7 @@
 # Craig Graham
 
+This section highlights my work experience.
+
 
 ## G-Strategy (Consulting, Marketing, Project Management)
 
