@@ -6,8 +6,11 @@ Though I lack a formal education, I've achieved most of my success through self-
 ---
 
 G-Strategy (Consulting, Marketing, Project Management)
+
 Role: Senior Digital Strategist (ad-hoc)
+
 San Diego | Tijuana | NH
+
 3/2018 – Present
 
 - Consulted with clients to understand their business and marketing objectives, providing strategic guidance on how to leverage web and mobile technology to achieve their goals.
