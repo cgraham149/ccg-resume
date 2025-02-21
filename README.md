@@ -8,4 +8,4 @@ Though I lack a formal education, I've achieved most of my success through self-
 content
 
 ---
-© [Craig Graham] [2025]. All rights reserved.
+© Craig Graham - 2025. All rights reserved.
