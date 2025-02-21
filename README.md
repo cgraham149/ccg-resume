@@ -1,6 +1,26 @@
 # Craig Graham
 
-This section highlights my work experience.
+### Summary
+Innovative technologist with 25+ years of experience bridging IT and business strategy. Expertise in GraphDBs (ArangoDB, Neo4j), AI-driven automation, and web development. A unique ability to translate technical solutions into actionable strategies for stakeholders, ensuring technology aligns with business and government objectives.
+
+### Core Skills
+- **Graph Databases & Data Architecture**: ArangoDB, Neo4j for fraud detection, waste reduction, and data-driven decision-making.
+- **Web Development & UI/UX**: HTML, CSS, JavaScript, Python—building scalable, intuitive government dashboards.
+- **AI & Large Language Models (LLMs)**: Self-hosted AI, Retrieval-Augmented Generation (RAG) for real-time insights in bureaucratic environments.
+- **Cross-Departmental Communication**: Bridging IT, Marketing, and Agencies to drive digital transformation.
+- **Project Management & Strategy**: Agile, Waterfall, and ADDIE+ Hybrid methodologies, stakeholder engagement, and workflow optimization.
+
+### Key Achievements
+- Implemented **self-hosted AI solutions**, improving real-time decision support in bureaucratic processes.
+- Translated **technical roadmaps into executive-level strategies**, ensuring technology adoption met organizational needs.
+- Drove **cross-functional collaboration** between IT, security, and marketing departments to align digital transformation initiatives.
+
+### Technical Expertise
+- **Languages & Frameworks**: Python, JavaScript, HTML, CSS
+- **Graph Databases**: ArangoDB, Neo4j
+- **AI & LLMs**: Self-hosted AI, RAG models, NLP
+- **Tools**: Docker, Git, REST APIs, Agile workflows
+- **UI/UX**: Web accessibility, data visualization, responsive design
 
 
 ## G-Strategy (Consulting, Marketing, Project Management)
