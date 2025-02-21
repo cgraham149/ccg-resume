@@ -1,7 +1,6 @@
 # ccg-resume
-All of my resume and CV stuff goes here.
 
-Though I lack a formal education, I've achieved most of my success through self-education, persistance, and practical experience.
+
 
 ---
 
@@ -60,5 +59,8 @@ Palo Alto, CA / Auburn, CA
 07/2000 – 10/2005
 
 - Played a key role as a member of the Executive Leadership Team in corporate strategic planning and decision making including direction
+
+---
+Though I lack a formal education, I've achieved most of my success through self-education, persistance, and practical experience.
 ---
 © Craig Graham - 2025. All rights reserved.
