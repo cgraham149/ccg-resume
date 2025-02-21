@@ -1,7 +1,7 @@
 # Craig Graham
 
 
-G-Strategy (Consulting, Marketing, Project Management)
+## G-Strategy (Consulting, Marketing, Project Management)
 
 Role: Senior Digital Strategist (ad-hoc)
 
@@ -16,7 +16,7 @@ San Diego | Tijuana | NH
 - Utilized project management methodologies and tools to streamline project workflows, identify and mitigate risks, and maintain effective communication with clients and project teams throughout the project lifecycle.
 
 ---
-National University (Higher Education)
+## National University (Higher Education)
 
 Role: University System Web Manager | SR Digital Strategist
 
@@ -30,7 +30,7 @@ San Diego, CA
 - Project Managed complete redesign of the National University suite of web & mobile properties including template design, content migration, user testing, training, deployment, and campus-wide communication. 
 
 ---
-Anderson Direct Marketing (Agency - Digital & Direct)
+## Anderson Direct Marketing (Agency - Digital & Direct)
 
 Role: SR Interactive Project Manager
 
@@ -46,7 +46,7 @@ San Diego, CA
 - Planned, documented, and implemented front-end architectures
 
 ---
-Strukture Media Solutions (Digital Agency)
+## Strukture Media Solutions (Digital Agency)
 
 Role: Founder | Sole Proprietor
 
@@ -63,7 +63,7 @@ Auburn, CA / San Diego, CA
 - Daring entrepreneurial spirit
 
 ---
-Crawford & Associates, Inc. (Elearning Consulting Agency)
+## Crawford & Associates, Inc. (Elearning Consulting Agency)
 
 Role: Director of Media Solutions
 
