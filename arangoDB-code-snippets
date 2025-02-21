@@ -1,0 +1,112 @@
+# ArangoDB and PREGEL graph algorithms:
+
+### ArangoDB Link Queries
+
+1. **All Links**: Retrieve any links to/from a specified entity.
+   ```aql
+   FOR v IN 1..1 ANY "person/name-lname" @@edgeCollection
+       RETURN v
+   ```
+
+2. **Inbound Links**: List all inbound links to a specified entity.
+   ```aql
+   FOR v IN 1..1 INBOUND "person/name-lname" @@edgeCollection
+       RETURN v
+   ```
+
+3. **Outbound Links**: List all outbound links from a specified entity.
+   ```aql
+   FOR v IN 1..1 OUTBOUND "person/name-lname" @@edgeCollection
+       RETURN v
+   ```
+
+4. **Common Links (2 Entities)**: Find common links between two entities.
+   ```aql
+   FOR x IN INTERSECTION(
+       (FOR y IN ANY 'person/name-lname' edgeCollection
+         OPTIONS { bfs: true, uniqueVertices: 'global' }
+         RETURN y._id),
+       (FOR y IN ANY 'person/Ehud-Barak' edgeCollection
+         OPTIONS { bfs: true, uniqueVertices: 'global' }
+         RETURN y._id)
+   ) RETURN x
+   ```
+
+5. **Common Links (3 Entities)**: Find common links among three entities.
+   ```aql
+   FOR x IN INTERSECTION(
+       (FOR y IN ANY 'places/location-name' edgeCollection
+         OPTIONS { bfs: true, uniqueVertices: 'global' }
+         RETURN y._id),
+       (FOR y IN ANY 'person/name-lname' edgeCollection
+         OPTIONS { bfs: true, uniqueVertices: 'global' }
+         RETURN y._id),
+       (FOR y IN ANY 'scandal/scandal-name' edgeCollection
+         OPTIONS { bfs: true, uniqueVertices: 'global' }
+         RETURN y._id)
+   ) RETURN x
+   ```
+
+6. **Count & Update**: Count edges for each node and update the count in the document.
+   ```aql
+   FOR p IN person
+   SORT p._key
+   COLLECT person = p
+   LET allEdges = LENGTH(FOR v IN 1..1 ANY person GRAPH 'links' RETURN 1)
+   LET size = allEdges / 228 * 300
+   UPDATE { _key: person._key, "size": size } IN person
+   RETURN {
+       "person": person._key,
+       "link_count": allEdges,
+       "size": person.size
+   }
+   ```
+
+### JavaScript Code Snippets
+
+- **Variables**: Define a person object and build `_key` and `_id`.
+   ```javascript
+   let collectionID = "node/";
+   let person = { firstName: "John", lastName: "Doe", age: 50, eyeColor: "blue" };
+   let _key = `${person.firstName}-${person.lastName}`;
+   let _id = `${collectionID}${person.firstName}-${person.lastName}`;
+   console.log(_id, _key, person.age, person.eyeColor);
+   ```
+
+### PREGEL Algorithms
+
+1. **Weakly Connected Components**:
+   ```javascript
+   var pregel = require("@arangodb/pregel");
+   pregel.start("connectedcomponents", "links");
+   ```
+
+2. **Strongly Connected Components**:
+   ```javascript
+   pregel.start("scc", "links");
+   ```
+
+3. **Hyperlink-Induced Topic Search (HITS)**:
+   ```javascript
+   var handle = pregel.start("hits", "links", {threshold: 0.00001, resultField: "HITS_score"});
+   ```
+
+4. **Centrality - Closeness**:
+   ```javascript
+   var handle = pregel.start("effectivecloseness", "links", {resultField: "closeness"});
+   ```
+
+5. **Centrality - LineRank**:
+   ```javascript
+   var handle = pregel.start("linerank", "links", {resultField: "line_rank"});
+   ```
+
+6. **Community Detection - Label Propagation**:
+   ```javascript
+   var handle = pregel.start("labelpropagation", "links", {maxGSS: 100, resultField: "community1"});
+   ```
+
+7. **Community Detection - Speaker-Listener Label Propagation**:
+   ```javascript
+   var handle = pregel.start("slpa", "links", {maxGSS: 100, resultField: "community2"});
+   ```
