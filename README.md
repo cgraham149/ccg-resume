@@ -1,9 +1,6 @@
-# ccg-resume
-
-
+# Craig Graham
 
 ---
-
 G-Strategy (Consulting, Marketing, Project Management)
 
 Role: Senior Digital Strategist (ad-hoc)
